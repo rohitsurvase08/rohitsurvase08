@@ -1,94 +1,61 @@
-<h1 align="center">Hi 👋, I'm Rohit Survase</h1>
+<h1 align="center">Hi there 👋, I'm Rohit Survase</h1>
 <h3 align="center">Python Developer | Building Web & Mobile Apps</h3>
 
-<table>
-<tr>
+<img src="coding.webp" alt="Rohit Survase - Python Developer" width="350" align="right" />
 
-<td width="60%" valign="top">
+I'm a Python developer who loves turning ideas into real, working products across web and mobile. Here's a quick snapshot of what I'm up to right now:
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=rohitsurvase08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working on **Smart Note AI Mobile Application**
+- 🔭 I'm currently working on **Smart Note AI**, a mobile application
 - 🌱 I'm currently learning **Data Structures & Algorithms**
-- 👯 I'm looking to collaborate on **Python & Open Source Projects**
+- 👯 I'm open to collaborating on **Python & Open Source** projects
 - 🤝 I'm looking for help with **AI & Software Development**
-- 💬 Ask me about **Python, DSA, GitHub**
-- 📫 Reach me at **survaser06@gmail.com**
-- ⚡ I love building projects and learning new technologies.
+- 💬 Ask me about **Python, DSA, and GitHub**
+- 📫 Reach me at **[survaser06@gmail.com](mailto:survaser06@gmail.com)**
+- ⚡ Fun fact: I love building projects and learning new technologies
 
-</td>
+<br clear="both">
 
-<td width="40%" align="center">
+<hr>
 
-<img src="coding.png" width="350" alt="Coding"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://x.com/rohitsurvase08" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/rohitsurvase08" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/rohitsurvase08" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/rohitsurvase08" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-## 🛠 Languages & Tools
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>&nbsp;&nbsp;
-
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/>&nbsp;&nbsp;
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
+  <a href="https://x.com/rohitsurvase08" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rohitsurvase08" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/rohitsurvase08" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/rohitsurvase08" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitsurvase08&show_icons=true&theme=tokyonight&hide_border=true"/>
+<hr>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsurvase08&layout=compact&theme=tokyonight&hide_border=true"/>
+<h2 align="center">🛠️ Languages & Tools</h2>
 
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,flutter,git&theme=dark" alt="Python, JavaScript, HTML5, CSS3, Flutter, Git" />
+  </a>
+</p>
+
+<hr>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/rohitsurvase08" target="_blank" rel="noopener noreferrer">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=rohitsurvase08&show_icons=true&theme=tokyonight&hide_border=true" alt="Rohit's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rohitsurvase08" target="_blank" rel="noopener noreferrer">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsurvase08&layout=compact&theme=tokyonight&hide_border=true" alt="Rohit's Most Used Languages" />
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rohitsurvase08&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/rohitsurvase08" target="_blank" rel="noopener noreferrer">
+    <img height="195" src="https://streak-stats.demolab.com/?user=rohitsurvase08&theme=tokyonight&hide_border=true" alt="Rohit's GitHub Streak" />
+  </a>
 </p>
+
+<hr>
+
+<p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
