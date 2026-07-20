@@ -1,4 +1,4 @@
-![logo](https://github.com/rohitsurvase08/rohitsurvase08/blob/main/banner.png)
+![logo](https://github.com/rohitsurvase08/rohitsurvase08/blob/main/banner.webp)
 <h1 align="center">Hi there 👋, I'm Rohit Survase</h1>
 <h3 align="center">Python Developer | Building Web & Mobile Apps</h3>
 
@@ -41,22 +41,38 @@ I'm a Python developer who loves turning ideas into real, working products acros
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <a href="https://github.com/rohitsurvase08" target="_blank" rel="noopener noreferrer">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=rohitsurvase08&show_icons=true&theme=tokyonight&hide_border=true" alt="Rohit's GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rohitsurvase08" target="_blank" rel="noopener noreferrer">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsurvase08&layout=compact&theme=tokyonight&hide_border=true" alt="Rohit's Most Used Languages" />
-  </a>
-</p>
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://github.com/rohitsurvase08">
+<img width="430" src="https://github-stats-extended.vercel.app/api?username=rohitsurvase08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/rohitsurvase08">
+<img width="380" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohitsurvase08&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<br>
+
+<a href="https://github.com/rohitsurvase08">
+<img width="700" src="https://streak-stats.demolab.com?user=rohitsurvase08&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
 
 <p align="center">
-  <a href="https://github.com/rohitsurvase08" target="_blank" rel="noopener noreferrer">
-    <img height="195" src="https://streak-stats.demolab.com/?user=rohitsurvase08&theme=tokyonight&hide_border=true" alt="Rohit's GitHub Streak" />
-  </a>
+<i>Thanks for stopping by — let's build something great together! 🚀</i>
 </p>
-
-<hr>
-
-<p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
